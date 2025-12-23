@@ -49,3 +49,7 @@ This project demonstrates the fundamentals of simple linear regression, model ev
 - Add data visualization  
 - Extend to multiple linear regression  
 - Apply the model to real-world datasets
+- ,kjkjk
+- mkmkm
+- mlkm
+- kmk
