@@ -48,4 +48,6 @@ This project demonstrates the fundamentals of simple linear regression, model ev
 ## 🚀 Future Improvements
 - Add data visualization  
 - Extend to multiple linear regression  
-- Apply the model to real-world datasets  
+- Apply the model to real-world datasets
+- hj
+- hjh
