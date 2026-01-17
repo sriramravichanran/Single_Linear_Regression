@@ -14,7 +14,7 @@ Where:
 - **β₀ (Intercept):** Weight value when height is zero  
 - **β₁ (Slope):** Change in weight for each unit increase in height  
  
----
+--- 
 
 ## 🔍 Steps Performed
 - Loaded and explored the dataset  
