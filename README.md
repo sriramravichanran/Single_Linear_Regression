@@ -13,7 +13,7 @@ y = β₁x + β₀
 Where:
 - **β₀ (Intercept):** Weight value when height is zero  
 - **β₁ (Slope):** Change in weight for each unit increase in height  
-
+ 
 ---
 
 ## 🔍 Steps Performed
