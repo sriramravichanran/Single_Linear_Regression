@@ -1,4 +1,4 @@
-# 📊 Simple Linear Regression Project (Height vs Weight)
+ # 📊 Simple Linear Regression Project (Height vs Weight)
 
 ## 📌 Overview
 This project implements **Simple Linear Regression** to understand the relationship between **height** and **weight**. The goal is to predict weight based on height using statistical and machine learning techniques.
