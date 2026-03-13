@@ -38,7 +38,7 @@ Where:
 - Statsmodels  
 
 ---
-
+   
 ## ✅ Result
 This project demonstrates the fundamentals of simple linear regression, model evaluation, and statistical analysis. It provides a strong foundation for further machine learning and data science projects.
 
