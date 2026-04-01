@@ -17,7 +17,7 @@ Where:
 --- 
 ## 🔍 Steps Performed
 - Loaded and explored the dataset  
-- Applied **Simple Linear Regression**  
+- Applied **Simple Linear Regression**   
 - Calculated **Intercept** and **Slope**  
 - Evaluated model performance using:
   - R-squared (R²)
