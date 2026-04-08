@@ -7,7 +7,7 @@ This project implements **Simple Linear Regression** to understand the relations
 
 ## 📐 Linear Regression Formula  
 The regression equation used in this project: 
- 
+  
 y = β₁x + β₀    
  
 Where: 
