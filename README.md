@@ -19,7 +19,7 @@ Where:
 - Loaded and explored the dataset  
 - Applied **Simple Linear Regression**   
 - Calculated **Intercept** and **Slope**  
-- Evaluated model performance using:
+- Evaluated model performance using: 
   - R-squared (R²)
   - Adjusted R-squared
 - Calculated error metrics:
