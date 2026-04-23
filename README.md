@@ -15,7 +15,7 @@ Where:
 - **β₁ (Slope):** Change in weight for each unit increase in height  
  
 --- 
-## 🔍 Steps Performed
+## 🔍 Steps Performed :
 - Loaded and explored the dataset  
 - Applied **Simple Linear Regression**   
 - Calculated **Intercept** and **Slope**  
